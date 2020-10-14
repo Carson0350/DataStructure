@@ -45,3 +45,4 @@ function es6SelectionSort(arr) {
 };
 
 console.log(es6SelectionSort([56,72,34,77,90,11,2,1,4]))
+
